@@ -1,4 +1,9 @@
----
+---npm create vite@latest my-birthday-card
+cd my-birthday-card
+npm install
+npm install canvas-confetti
+npm run dev
+
 id: getting-started
 title: Getting Started
 ---
